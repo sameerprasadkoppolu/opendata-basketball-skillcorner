@@ -17,6 +17,10 @@ venv/
 # Project-specific
 archive/
 notebooks/exploratory/
+docs/CONTEXT.md
+two-stage-manipulation-model.md
+data/actions.csv
+data/shot_actions.csv
 
 .agents/
 
